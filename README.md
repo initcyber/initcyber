@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a> </p>
 
-- 🔭 I’m currently working on [Homelab SOC](https://github.com/initcyber/homelab_soc)
-
+- 🔭 I’m currently working on **Homelab SOC**
 
 - 🌱 I’m currently learning/brushing up on **Python, Bash, Powershell**
 
@@ -16,7 +15,8 @@
 
 - 📫 How to reach me **justin@initcyber.com**
 
-- 📄 Know about my experiences [https://www.initcyber.com/wp-content/uploads/2023/12/resume.pdf]([)](https://www.initcyber.com/wp-content/uploads/2023/12/resume.pdf)
+- 📄 Know about my experiences [https://www.initcyber.com/wp-content/uploads/2023/12/resume.pdf]
+- (https://www.initcyber.com/wp-content/uploads/2023/12/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
