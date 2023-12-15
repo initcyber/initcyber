@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a> </p>
 
-- 🔭 I’m currently working on **Homelab SOC**
+- 🔭 I’m currently working on [HomeLab SOC](https://www.github.com/initcyber/homelab_soc)
 
 - 🌱 I’m currently learning/brushing up on **Python, Bash, Powershell**
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/303223/microsoft-windows-22-logo.svg" alt="windows" width="40" height="40"> </a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/373992/powershell.svg" alt="windows" width="40" height="40">  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/353475/bash.svg" alt="windows" width="40" height="40"></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=initcyber&show_icons=true&locale=en&layout=compact" alt="initcyber" /></p>
 
