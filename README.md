@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Expert - I enjoy helping others in their cybersecurity and technology careers by sharing my experiences and ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
-[<img src="https://img.shields.io/badge/dockerhub-DockerHub-black.svg?logo=Docker">](<https://hub.docker.com/u/initcyber>)</p>
+<a href="https://hub.docker.com/u/initcyber" target="blank"><img src="https://img.shields.io/badge/dockerhub-images-black.svg?logo=Docker" alt="DockerHub"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=initcyber" alt="initcyber" /></a> </p>
 
