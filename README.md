@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Justin Johnson</h1>
 <h3 align="center">Cybersecurity Expert - I enjoy helping others in their cybersecurity and technology careers by sharing my experiences and ideas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
-<a href="https://hub.docker.com/u/initcyber" target="blank"><img src="https://img.shields.io/badge/dockerhub-images-black.svg?logo=Docker" alt="DockerHub"></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
+<a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Trivy_status-Monitored-aqua" alt="trivytatus"></a>
+<a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a>
+<a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Semgrep_status-Monitored-green" alt="semgrepstatus"> </a>
+<a href="https://hub.docker.com/u/initcyber" target="blank"><img src="https://img.shields.io/badge/dockerhub-images-success.svg?logo=Docker" alt="DockerHub"></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=initcyber" alt="initcyber" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a> </p>
+
+
 
 - 🔭 I’m currently working on two projects [HomeLab DevSecOp](https://github.com/initcyber/homelab_devsecop) and [APIster](https://github.com/initcyber/APIster)
 
