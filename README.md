@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on  [HomeLab DevSecOps](https://github.com/initcyber/homelab_devsecops) and a bunch of LLM/AI tools.
+- 🔭 I’m currently working on architecting and constantly developing my [HomeLab](https://github.com/initcyber/homelab) and a bunch of LLM/AI tools.
 
 - 🌱 I’m currently learning/brushing up on **Python** and **AI** tools
 
