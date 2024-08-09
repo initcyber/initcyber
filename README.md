@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **justin@initcyber.com**
 
-- 📄 Know about my experiences [Resume](https://www.initcyber.com/wp-content/uploads/2023/12/resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/initcyber/initcyber.github.io/blob/main/assets/static/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
