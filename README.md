@@ -2,9 +2,7 @@
 <h3 align="center">At Init Cyber, we are dedicated to safeguarding your digital assets with cutting-edge cybersecurity solutions tailored for businesses of all sizes. Based in north Atlanta, we leverage our expertise and industry-leading practices to protect your organization from evolving cyber threats.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
-<a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Trivy_status-Monitored-aqua" alt="trivytatus"></a>
 <a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a>
-<a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Semgrep_status-Monitored-green" alt="semgrepstatus"> </a>
 <a href="https://hub.docker.com/u/initcyber" target="blank"><img src="https://img.shields.io/badge/dockerhub-images-success.svg?logo=Docker" alt="DockerHub"></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=initcyber" alt="initcyber" /></a> </p>
 
