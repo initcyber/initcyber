@@ -9,15 +9,10 @@
 
 
 
-- 🔭 I’m currently working on architecting and constantly developing my [HomeLab](https://github.com/initcyber/homelab) and a bunch of LLM/AI tools.
-
-- 🌱 I’m currently learning/brushing up on **Python** and **AI** tools
-
 - 📝 I regularly write articles on [https://www.initcyber.com](https://www.initcyber.com)
 
 - 📫 How to reach me **justin@initcyber.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/initcyber/initcyber.github.io/blob/main/assets/static/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
