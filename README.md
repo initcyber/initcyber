@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Justin Johnson</h1>
-<h3 align="center">Cybersecurity Expert - I enjoy helping others in their cybersecurity and technology careers by sharing my experiences and ideas.</h3>
+<h1 align="center">Hi 👋, I'm Justin Johnson, Owner of Init Cyber</h1>
+<h3 align="center">At Init Cyber, we are dedicated to safeguarding your digital assets with cutting-edge cybersecurity solutions tailored for businesses of all sizes. Based in north Atlanta, we leverage our expertise and industry-leading practices to protect your organization from evolving cyber threats.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
 <a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Trivy_status-Monitored-aqua" alt="trivytatus"></a>
