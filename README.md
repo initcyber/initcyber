@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Johnson, Owner of Init Cyber</h1>
-<h3 align="center">At Init Cyber, we are dedicated to safeguarding your digital assets with cutting-edge cybersecurity solutions tailored for businesses of all sizes. Based in north Atlanta, we leverage our expertise and industry-leading practices to protect your organization from evolving cyber threats.</h3>
+<h3 align="center">At Init Cyber, we help businesses protect sensitive information and meet demanding compliance standards such as CMMC and NIST. Based in North Atlanta, our team delivers practical risk assessments, gap analyses, and readiness services that reduce risk, strengthen security, and prepare you for audits with confidence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=initcyber&label=Profile%20views&color=0e75b6&style=flat" alt="initcyber" /> 
 <a href="https://twitter.com/initcyberdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/initcyberdotcom?logo=twitter&style=for-the-badge" alt="initcyberdotcom" /></a>
